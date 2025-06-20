@@ -15,7 +15,7 @@ numpy==1.21.6
 onnxruntime==1.14.0
 opencv-python==4.7.0.68
 packaging==23.0
-protobuf==4.22.0
+protobuf==4.25.8
 pydantic==1.10.5
 python-multipart==0.0.5
 requests==2.28.2
@@ -25,6 +25,6 @@ starlette==0.25.0
 sympy==1.10.1
 tqdm==4.64.1
 typing-extensions==4.5.0
-urllib3==1.26.14
+urllib3==2.5.0
 uvicorn==0.20.0
 zipp==3.14.0
