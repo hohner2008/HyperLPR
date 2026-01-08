@@ -25,6 +25,6 @@ starlette==0.25.0
 sympy==1.10.1
 tqdm==4.64.1
 typing-extensions==4.5.0
-urllib3==1.26.14
+urllib3==2.6.3
 uvicorn==0.20.0
 zipp==3.14.0
